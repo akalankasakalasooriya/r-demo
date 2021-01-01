@@ -204,4 +204,21 @@ plot(reg1)
 summary(reg1)
 anova(reg1)
 
+#bernouli
+p_load(Rlab)
+library(Rlab)
+dbern(0,0.4)
+
+# binomial dist
+dbinom(x =0:4,size = 20,prob = 0.11)
+sum(dbinom(x =4,size = 20,prob = 0.11))
+
+
+#poisson
+ppois(q=4,lambda = 7,lower.tail = T)
+#same as
+sum(dpois(x=0:4,lambda = 7))
+
+
+
 
