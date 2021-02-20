@@ -219,6 +219,6 @@ ppois(q=4,lambda = 7,lower.tail = T)
 #same as
 sum(dpois(x=0:4,lambda = 7))
 
-
+#added coment for sliit git practice
 
 
