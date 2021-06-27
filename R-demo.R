@@ -1,4 +1,4 @@
-# setting path-oshan
+# setting path-oshan1
 
 setwd("D:\\akalanka\\projects to try\\R demo")
 getwd()
