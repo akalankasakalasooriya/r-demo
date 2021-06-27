@@ -1,4 +1,4 @@
-# setting path
+# setting path akalanka
 
 setwd("D:\\akalanka\\projects to try\\R demo")
 getwd()
